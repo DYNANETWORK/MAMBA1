@@ -57,7 +57,7 @@
       "value": "https://telegra.ph/file/a8a793a8716bdcc923fd3.jpg",
       "required": true
     },
-    "PYTHON_PIC": {
+    "MAMBA_PIC": {
       "description": "Put here any telegraph media link for MAMBA pic in .op command.",
       "value": "https://telegra.ph/file/a8a793a8716bdcc923fd3.jpg",
       "required": true
@@ -131,7 +131,7 @@
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
        "value": ""
     }, 
-    "PYTHON_STRING": {
+    "MAMBA_STRING": {
       "description": "Get this value by running https://replit.com/@jaggi444/MAMBAUB#main.py ",
       "value": ""
     },
