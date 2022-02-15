@@ -89,12 +89,12 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "-1001761712036",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": ""
+      "value": "2634874"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
@@ -113,23 +113,23 @@
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": ""
+      "value": "a418fd5c4497ca9986f31c314da6f170"
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001761712036"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
-      "value": ""
+      "value": "-1001761712036"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
+      "value": "-1001761712036"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private group and add @missrose_bot and do /id and add that id", 
-       "value": ""
+       "value": "-1001761712036"
     }, 
     "MAMBA_STRING": {
       "description": "Get this value by running https://replit.com/@jaggi444/MAMBAUB#main.py ",
@@ -137,17 +137,17 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
+      "value": "1f5148d3-18ff-4def-b616-0fbb65e6e899",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "",
+      "value": "sukhiub",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "5175955947:AAEmV_iWMvdRqRjwfLCP3jdB5pep6PVyqy4"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -161,7 +161,7 @@
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": ""
+      "value": "@MAMBA_TESTING_GBOT"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
